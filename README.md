@@ -6,6 +6,6 @@
 
 <p align="center"> ✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏ </p>
 
-　　　　　　　　　　　　　　　　　　　　　　　　　　　 .　![](https://komarev.com/ghpvc/?username=smirmoff&color=a1b5ed)　.
+　　　　　　　　　　　　　　　　　　　　　　　　　 .　![](https://komarev.com/ghpvc/?username=smirmoff&color=a1b5ed)　.
 
 <p align="center"> sign ata + strawpage !! </p>
